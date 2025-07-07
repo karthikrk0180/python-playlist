@@ -1,17 +1,1 @@
-# Ignore all compiled Python files
-__pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Ignore CPython build artifacts
-*.cpython-*
-
-# Optional: Ignore editor-specific files
-*.swp
-*.swo
-*.log
-.DS_Store
-
-# Ignore SQLite DB file (optional)
-*.db

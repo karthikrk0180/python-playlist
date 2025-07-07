@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Karthik R Khatavkar",
+      "email": "karthikrk0180@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Tanisha Singh",
+      "email": "tanisha@psi.in"
+    }
+  ]
+}
