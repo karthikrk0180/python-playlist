@@ -17,7 +17,8 @@ def main():
 
         summary = (
             f"Hi, I'm {name}, a {age}-year-old {proffession} based in {city}.\n"
-            f"I absolutely enjoy my hobbies, which include {hobbies}."
+            f"I absolutely enjoy my hobbies, which include {hobbies}.\n"
+            f"Thank you!"
         )
 
         print(summary)
