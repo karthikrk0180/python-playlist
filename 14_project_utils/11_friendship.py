@@ -16,6 +16,8 @@ def calculate_friendship(name1, name2):
     
     sum_score = intersection_score + intersection_score_vowel
     
+    final_sum_score = min(sum_score,100)
+    
     return sum_score
 
 def main():
